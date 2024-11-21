@@ -1,0 +1,19 @@
+# directories
+__pycache__
+output
+example
+.venv
+*/test_data/*
+.flake8
+.pytest_cache
+.env
+TODO
+
+# file types
+*.pyc
+*.drawio
+
+# files
+personal_information.py
+workspace.code-workspace
+info.log

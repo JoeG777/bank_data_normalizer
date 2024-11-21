@@ -1,0 +1,3 @@
+pandas==2.2.3
+pandera==0.20.4
+python-dotenv==1.0.1
